@@ -1,0 +1,10 @@
+{
+  "name": "smb-loan-platform-ethereum",
+  "version": "1.0.0",
+  "description": "A decentralized application (dapp) containing two smart contracts deployed to a local Ethereum blockchain by Ganache.",
+  "dependencies": {
+    "ganache-cli": "^6.12.0",
+    "solc": "^0.6.4",
+    "web3": "^1.3.0"
+  }
+}
